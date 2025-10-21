@@ -38,15 +38,13 @@ O projeto foi estruturado para facilitar a **execução, análise e documentaç�
 1. **Pré-requisitos**
    - Java 8+ instalado e configurado  
    - Apache JMeter (versão compatível com Java 8)  
-
-2. **Executar o script**
-   ```bash
-   jmeter -n -t "projeto/BlazeDemo - Compra de Passagem.jmx" -l "relatorios/results.jtl" -e -o "relatorios/html"
+   - Clone o projeto na sua máquina
+    ```bash
+   git clone https://github.com/franvareira/jmeter-blazedemo.git
    ```
-
-3. **⚠️ Importante antes de gerar o relatório HTML**
+2. **⚠️ Importante antes de executar e gerar o relatório HTML**
    - O JMeter **não gera o relatório** se a pasta de destino **não estiver vazia**.  
-   - Antes de executar o comando acima, **esvazie a pasta `relatorios/html/`**:
+   - Antes de executar o comando de execução dos testes abaixo, **esvazie a pasta `relatorios/html/`**:
      ```bash
      rm -rf relatorios/html/*
      ```
@@ -54,6 +52,13 @@ O projeto foi estruturado para facilitar a **execução, análise e documentaç�
      ```
      relatorios/html/index.html
      ```
+
+3. **Executar o script**
+   ```bash
+   jmeter -n -t "projeto/BlazeDemo - Compra de Passagem.jmx" -l "relatorios/results.jtl" -e -o "relatorios/html"
+   ```
+
+
 
 ---
 
