@@ -68,8 +68,8 @@ A pasta `relatorios/html/` contém o **relatório HTML gerado localmente**, util
 
 | Gráfico | Descrição |
 |----------|------------|
-| ![Percentil](./imgs/percentil.PNG) | Distribuição dos tempos de resposta |
-| ![Throughput](./imgs/throughput.PNG) | Taxa de requisições por segundo |
+| ![Percentil](/imgs/percentil.png) | Distribuição dos tempos de resposta |
+| ![Throughput](/imgs/carga.png) | Taxa de requisições por segundo |
 
 ---
 
