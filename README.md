@@ -15,7 +15,7 @@ O projeto foi estruturado para facilitar a **execução, análise e documentaç�
 │
 ├── 📁 imgs/               → Imagens e gráficos para relatórios e README
 │   ├── percentil.PNG
-│   └── throughput.PNG
+│   └── carga.PNG
 │
 ├── 📁 projeto/            → Arquivos principais do JMeter
 │   ├── BlazeDemo - Compra de Passagem.jmx  # Script de testes
