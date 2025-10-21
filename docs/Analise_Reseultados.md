@@ -38,6 +38,14 @@ A partir desse ponto, houve um aumento acentuado — nos percentis mais altos, *
 
 ---
 
+---
+
+### 📊 Para visualizar o Dashboard de Execução com todas as informações:
+
+[Acesse o relatório HTML aqui](./relatorios/html/index.html)
+
+---
+
 ## 🧾 **Conclusão**
 
 > 💡 O sistema **não atendeu aos critérios de aceitação**:  
